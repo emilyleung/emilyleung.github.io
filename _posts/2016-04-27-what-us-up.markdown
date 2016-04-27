@@ -1,0 +1,6 @@
+---
+published: true
+title: What us up?
+layout: post
+---
+oh i c
